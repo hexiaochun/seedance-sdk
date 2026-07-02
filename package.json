@@ -1,0 +1,8 @@
+{
+  "name": "seedance-sdk",
+  "version": "2.1.0",
+  "description": "Seedance Video API – official Node.js SDK",
+  "main": "index.js",
+  "keywords": ["seedance", "video", "ai", "sdk"],
+  "license": "MIT"
+}
